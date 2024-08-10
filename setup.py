@@ -14,7 +14,7 @@ setup(
     description="My short description",
     long_description=page_description,
     long_description_content_types="text_mackdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/SonLima94/Pacote-de-Processamento-de-Imagens-com-Python",
     packages=find_packages(),
     install_requirement=requirements,
     python_requires='>=3.5',
